@@ -35,5 +35,20 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Compile Include="003_Lobby\Cell.cs" />
+    <Compile Include="003_Lobby\Chat.cs" />
+    <Compile Include="003_Lobby\EnumerableExtensions.cs" />
+    <Compile Include="003_Lobby\IReadOnlyPlayer.cs" />
+    <Compile Include="003_Lobby\IRoomSocket.cs" />
+    <Compile Include="003_Lobby\MatchMaker.cs" />
+    <Compile Include="003_Lobby\Message.cs" />
+    <Compile Include="003_Lobby\Player.cs" />
+    <Compile Include="003_Lobby\Program.cs" />
+    <Compile Include="003_Lobby\Room.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
