@@ -35,5 +35,13 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Compile Include="002_Online_shop\Cart.cs" />
+    <Compile Include="002_Online_shop\Order.cs" />
+    <Compile Include="002_Online_shop\Product.cs" />
+    <Compile Include="002_Online_shop\Program.cs" />
+    <Compile Include="002_Online_shop\Shop.cs" />
+    <Compile Include="002_Online_shop\Warehouse.cs" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
