@@ -35,5 +35,17 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Compile Include="004_Logger\ConsoleLogger.cs" />
+    <Compile Include="004_Logger\FileLogger.cs" />
+    <Compile Include="004_Logger\Interfaces\ILogger.cs" />
+    <Compile Include="004_Logger\Interfaces\ILoggerPolicy.cs" />
+    <Compile Include="004_Logger\BaseLogger.cs" />
+    <Compile Include="004_Logger\LoggerChain.cs" />
+    <Compile Include="004_Logger\Pathfinder.cs" />
+    <Compile Include="004_Logger\Program.cs" />
+    <Compile Include="004_Logger\SecurePolicy.cs" />
+    <Compile Include="004_Logger\StandardPolicy.cs" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
