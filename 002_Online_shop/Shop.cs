@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace NapilnikTask2
+namespace NapilnikTask_Online_shop
 {
     public class Shop
     {

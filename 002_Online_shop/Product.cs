@@ -1,4 +1,4 @@
-﻿namespace NapilnikTask2
+﻿namespace NapilnikTask_Online_shop
 {
     public struct Product //В задании обозначается как Good, но так не говорят
     {

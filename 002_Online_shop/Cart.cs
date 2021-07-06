@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace NapilnikTask2
+namespace NapilnikTask_Online_shop
 {
     public class Cart
     {
