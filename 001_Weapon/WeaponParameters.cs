@@ -1,4 +1,4 @@
-﻿namespace NapilnikTask1
+﻿namespace NapilnikTask_Weapon
 {
     public class WeaponParameters
     {
