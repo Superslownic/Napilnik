@@ -1,4 +1,4 @@
-﻿namespace NapilnikTask3
+﻿namespace NapilnikTask_Lobby
 {
     public class Player : IReadOnlyPlayer
     {

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace NapilnikTask3
+namespace NapilnikTask_Lobby
 {
     public static class EnumerableExtensions
     {

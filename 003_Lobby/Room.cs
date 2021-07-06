@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Collections.Generic;
 
-namespace NapilnikTask3
+namespace NapilnikTask_Lobby
 {
     public class Room : IRoomSocket
     {
