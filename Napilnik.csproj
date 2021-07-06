@@ -38,7 +38,6 @@
   <ItemGroup>
     <Compile Include="001_Weapon\Bot.cs" />
     <Compile Include="001_Weapon\Player.cs" />
-    <Compile Include="001_Weapon\Program.cs" />
     <Compile Include="001_Weapon\Weapon.cs" />
     <Compile Include="001_Weapon\WeaponParameters.cs" />
   </ItemGroup>
